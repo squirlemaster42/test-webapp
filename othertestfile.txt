@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 This is another text file
 
+Creating a merge conflict
 Creating a merge conflict
